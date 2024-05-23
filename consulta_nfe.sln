@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "verificaNfe", "verificaNfe\verificaNfe.csproj", "{C914A036-E31A-4429-95B4-61BA43C0FA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C914A036-E31A-4429-95B4-61BA43C0FA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C914A036-E31A-4429-95B4-61BA43C0FA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C914A036-E31A-4429-95B4-61BA43C0FA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C914A036-E31A-4429-95B4-61BA43C0FA66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D24732-1217-4810-AE2C-6AFBECE3AE2B}
+	EndGlobalSection
+EndGlobal
